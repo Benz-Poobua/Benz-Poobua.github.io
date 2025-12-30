@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: " "
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -37,8 +37,8 @@ Professional Skills
 
 Awards & Honors
 ======
-* Livingston Wernecke Memorial Scholarship Award, University of Washington, USA,2024
-* National Scholarship, Thailand, 2021-2024
+* Livingston Wernecke Memorial Scholarship Award, University of Washington, USA, 2024
+* National Scholarship, Thailand, 2021 - 2024
   
 Membership
 ======

@@ -14,5 +14,8 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Conferences"
+  - title: "Publications"
     url: /markdown/
+
+  - title: "Resources"
+    url: /talks/
