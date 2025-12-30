@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Conferences"
+title: "Publications"
 author_profile: true
 redirect_from: 
   - /md/
