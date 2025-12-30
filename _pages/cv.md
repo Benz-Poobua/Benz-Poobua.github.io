@@ -11,54 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Geophysics, Stanford University, 2025 - Present
+* B.S. in Earth and Space Sciences, University of Washington, 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Research Assistant: Jan. - Aug. 2025
+  * Chulalongkorn University
+  * Duties includes: 
+    1. Interpreted 2D seismic reflection data to characterize basin structures and analyze undocumented local faults in the Gulf of Thailand, followed by constructing a seafloor model
+    2. Assessed potential geothermal resources across Thailand by integrating land surface temperature (LST) data from remote sensing with basin geometry and known geothermal hotspot information
+  * Supervisor: Sukonmeth Jitmahantakul
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Undergraduate Research Assistant
+  * Pacific Northwest Seismic Network (PNSN), University of Washington 
+  * Duties included: 
+    1. Collaborated with the PNSN team to classify low-frequency seismic events (LFs) through detailed review and analysis
+    2. Helped locate seismic events at Mt. Baker within the current PNSN catalog using template matching and signal processing techniques while developing a comprehensive waveform database for these events
+  * Supervisor: Nathan T Stevens
+  
+Professional Skills
+======
+* Programming: Python
+* Tools: GMT, GMTSAR
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Awards & Honors
+======
+* Livingston Wernecke Memorial Scholarship Award, University of Washington, USA,2024
+* National Scholarship, Thailand, 2021-2024
   
-Skills
+Membership
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2025 - Present: Society of Exploration Geophysicists (SEG)
